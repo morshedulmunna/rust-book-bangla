@@ -1,0 +1,1 @@
+# Charakteristiken objektorientierter Sprachen

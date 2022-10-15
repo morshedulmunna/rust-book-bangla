@@ -1,0 +1,1 @@
+# Beispielprogramm mit Strukturen (structs)

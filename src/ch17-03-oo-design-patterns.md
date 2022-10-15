@@ -1,0 +1,1 @@
+# Ein objektorientiertes Entwurfsmuster implementieren

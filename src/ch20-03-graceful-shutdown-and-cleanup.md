@@ -1,0 +1,1 @@
+# Kontrolliertes Beenden und Aufräumen

@@ -1,0 +1,1 @@
+# Nebenläufigkeit mit gemeinsamem Zustand

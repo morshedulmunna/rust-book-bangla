@@ -1,0 +1,1 @@
+# Eine Aufzählung (enum) definieren
